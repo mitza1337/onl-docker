@@ -4,6 +4,7 @@
 customization.yml
 logger.env
 caps.json
+.vscode/
 
 # Extra modules
 /docker-compose.override.yml
